@@ -1,0 +1,27 @@
+/*
+	@author 刘飞 陈新
+	@createTime 2019-07-09 15:10
+*/
+
+nav{
+	box-shadow: 2px 0px 20px #E0FFFF;
+}
+
+.card-shadow{
+	box-shadow: 0px 0px 20px #E0FFFF;
+}
+
+.footer{
+	position: fixed;left: 0;bottom: 0;z-index: 100;
+}
+
+.skyblue{
+	color:skyblue;
+}
+
+.article_bg{
+	background-image: url(../image/article_bg.jpg);
+	background-repeat: repeat-y;
+}
+
+
